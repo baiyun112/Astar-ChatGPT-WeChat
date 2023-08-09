@@ -28,7 +28,7 @@ wx:
       timeout: 2000
     configs:
       - appId: wxc8e4d0b877d8adff # 第一个公众号的appid
-        secret: 1111 # 公众号的appsecret
+        secret: 5fc08d1516964c113250eef24bd0b116 # 公众号的appsecret
         token: 111 # 接口配置里的Token值
         aesKey: 111 # 接口配置里的EncodingAESKey值
       - appId: 2222 # 第二个公众号的appid，以下同上
