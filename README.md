@@ -24,10 +24,10 @@ wx:
     useRedis: false
     redisConfig:
       host: 127.0.0.1
-      port: 6379
+      port: 8080
       timeout: 2000
     configs:
-      - appId: 1111 # 第一个公众号的appid
+      - appId: wxc8e4d0b877d8adff # 第一个公众号的appid
         secret: 1111 # 公众号的appsecret
         token: 111 # 接口配置里的Token值
         aesKey: 111 # 接口配置里的EncodingAESKey值
